@@ -1,0 +1,3 @@
+﻿  Bingo.cpp
+C:\Alaa\Projects\Bingo\Bingo\Bingo\Bingo.cpp(80,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bingo.vcxproj -> C:\Alaa\Projects\Bingo\Bingo\x64\Debug\Bingo.exe
